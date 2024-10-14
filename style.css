@@ -318,6 +318,7 @@ a:hover {
 
 #experience {
   position: relative;
+  margin: 2rem auto;
 }
 
 .experience-sub-title {
@@ -325,12 +326,14 @@ a:hover {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  margin: 2rem auto;
 }
 
 .experience-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin: 2rem auto;
 }
 
 .article-container {
@@ -355,6 +358,7 @@ article .icon {
 
 #projects {
   position: relative;
+  margin: 2rem auto;
 }
 
 .color-container {
