@@ -343,7 +343,7 @@ a:hover {
 
 article {
   display: flex;
-  width: 15rem;
+  width: 16rem;
   justify-content: left;
   gap: 0.5rem;
 }
