@@ -193,14 +193,14 @@ a:hover {
   margin-bottom: 1rem;
 }
 
-.expand {
-  height: 2.5rem;
-  text-decoration: underline;
-  -moz-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -webkit-transition: all 1s ease-in-out;
-  transition: all 1s;
+#expand {
+  height: 0;
+  overflow: hidden;
+  -moz-transition: height 0.5s;
+  -ms-transition: height 0.5s;
+  -o-transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  transition: height 0.5s;
 }
 
 .title {
