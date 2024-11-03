@@ -247,6 +247,13 @@ a:hover {
   margin-inline: 0.5rem;
 }
 
+.icon__link {
+  cursor: pointer;
+  height: 2rem;
+  margin-top: 1rem;
+  margin-inline: 0.5rem;
+}
+
 .btn-container {
   display: flex;
   justify-content: center;
