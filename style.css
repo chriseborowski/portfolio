@@ -203,6 +203,17 @@ a:hover {
   transition: height 0.5s;
 }
 
+#expand-button {
+  border-style: none;
+  background: none;
+  margin: 0 0 10px 0;
+}
+
+#expand-button:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
