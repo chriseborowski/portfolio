@@ -15,7 +15,7 @@ function expandText() {
   }
 
   document.getElementById("expand-button").value =
-    document.getElementById("expand-button").value == "Read more"
-      ? "Read more"
-      : "Read less";
+    document.getElementById("expand-button").value === "Read more"
+      ? "Read less"
+      : "Read more";
 }
