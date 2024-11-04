@@ -196,7 +196,7 @@ a:hover {
 }
 
 #expand {
-  height: 50;
+  height: 0;
   overflow: hidden;
   -moz-transition: height 0.5s;
   -ms-transition: height 0.5s;
