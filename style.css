@@ -376,12 +376,12 @@ a:hover {
   margin: auto 0;
 }
 
-#experience {
+#skills {
   position: relative;
   margin: 2rem auto;
 }
 
-.experience-sub-title {
+.skills-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
@@ -389,7 +389,7 @@ a:hover {
   margin: 2rem auto;
 }
 
-.experience-details-container {
+.skills-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
