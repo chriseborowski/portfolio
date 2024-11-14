@@ -195,7 +195,7 @@ a:hover {
   margin-bottom: 1rem;
 }
 
-#expand {
+[id^="expand-"] {
   height: 0;
   overflow: hidden;
   -moz-transition: height 0.5s;
@@ -205,13 +205,13 @@ a:hover {
   transition: height 0.5s;
 }
 
-#expand-button {
+[id^="expand-button"] {
   border-style: none;
   background: none;
   margin: 0 0 10px 0;
 }
 
-#expand-button:hover {
+[id^="expand-button"]:hover {
   cursor: pointer;
   text-decoration: underline;
 }
